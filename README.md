@@ -24,3 +24,5 @@ cloud-enterprise-platform/
 │   └── architecture.md     # System design documentation
 └── README.md
 ```text
+
+Production-ready, compliant enterprise microservices platform deployed via Terraform and Kubernetes on Microsoft Azure.- 21/Sep/2026.
